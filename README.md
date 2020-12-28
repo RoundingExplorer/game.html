@@ -1,5 +1,5 @@
 # game.html
-Easier [way](https://soumilmitra-game.netlify.app)
+# **Easier [way](https://soumilmitra-game.netlify.app)**
 # **This is in html**
 All you have to do is copy paste [this in notepad bruh](https://github.com/RoundingExplorer/game.html/blob/main/copy-this-in-your-notepad)
 Done!
