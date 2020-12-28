@@ -5,3 +5,4 @@ Done!
 :grinning:
 :smiley:
 >Some features are in developement
+PS: Don't forget to end the notepad with .html / .htm
